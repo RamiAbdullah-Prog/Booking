@@ -1,6 +1,6 @@
 # Project: Hotel Booking Pattern Analysis
 
-![Alt text](./path/to/image.png)
+![Alt text](تنزيل.jpeg)
 
 
 ### Description:
